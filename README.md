@@ -1,2 +1,2 @@
-﻿# jakaphat-portfolio
-https://gcg000sptt.github.io/jakaphat_portfolio/
+﻿# portfolio
+gcg000sptt.github.io/jakaphat_portfolio
